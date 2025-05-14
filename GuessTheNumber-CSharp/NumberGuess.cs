@@ -24,7 +24,7 @@ public class NumberGuess
                 Run();
             } 
         }
-        
+       
         else if (numGuess > num)
         {
             Console.WriteLine("Det var høyt, prøv igjen.");
